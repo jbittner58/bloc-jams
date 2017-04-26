@@ -17,6 +17,7 @@ body {
 }
 
 .navbar {
+<<<<<<< HEAD
     position: relative;
     padding: 0.5rem;
     background-color: rgba(101,18,95,0.5);
@@ -39,7 +40,7 @@ body {
     text-decoration: none;
 }
 
-.links-container .navbar-links {
+.links-container .navbar-link {
     display: table-cell;
     position: relative;
     height: 100%;
@@ -58,6 +59,7 @@ body {
 .links-container .navbar-link:hover {
     color: rgb(233,50,117);
 }
+
 
 .links-container .navbar-link:active {
     background-color: white;
