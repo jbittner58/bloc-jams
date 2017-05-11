@@ -20,12 +20,9 @@ window.onload = function() {
      // #2
      collectionContainer.innerHTML = '';
  
-     // #3
-<<<<<<< HEAD
+
      for (var i = 0; i < 12; i++) {
-=======
-     for (var i = 0; i < 120; i++) {
->>>>>>> checkpoint-10-DOMcollection
+         
          collectionContainer.innerHTML += collectionItemTemplate;
      }
  }
